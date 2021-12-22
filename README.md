@@ -21,7 +21,7 @@ My name is Zsombor Joel Gyurkovics and I'm a software engineer. I'm from Hungary
 ![](https://img.shields.io/badge/CICD-Azure-DevOps-informational?style=flat&logo=azure-devops&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CICD-GitLab-CI/CD-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Amazon_Web_Services-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)\
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
