@@ -4,31 +4,24 @@ My name is Zsombor Joel Gyurkovics and I'm a software engineer. I'm from Hungary
 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)\
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual-Studio-Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/Editor-Visual-Studio-Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)\
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)\
 ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)\
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-Elasticsearch-informational?style=flat&logo=elasticsearch&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Messaging-Apache-Kafka-informational?style=flat&logo=apache-kafka&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/Database-Elasticsearch-informational?style=flat&logo=elasticsearch&logoColor=white&color=2bbc8a)\
+![](https://img.shields.io/badge/Messaging-Apache_Kafka-informational?style=flat&logo=apache-kafka&logoColor=white&color=2bbc8a)\
 ![](https://img.shields.io/badge/Containerization-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Containerization-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/Containerization-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)\
 ![](https://img.shields.io/badge/CICD-Azure-DevOps-informational?style=flat&logo=azure-devops&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CICD-GitLab-CI/CD-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/CICD-GitLab-CI/CD-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)\
 ![](https://img.shields.io/badge/Cloud-Amazon_Web_Services-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=azure&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=azure&logoColor=white&color=2bbc8a)\
 
 ## &#x1f4c8; GitHub Stats
 
