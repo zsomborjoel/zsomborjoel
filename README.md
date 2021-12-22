@@ -19,7 +19,6 @@ My name is Zsombor Joel Gyurkovics and I'm a software engineer. I'm from Hungary
 
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-Elasticsearch-informational?style=flat&logo=elasticsearch&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Messaging-Apache-Kafka-informational?style=flat&logo=apache-kafka&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Containerization-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
