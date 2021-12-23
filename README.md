@@ -18,8 +18,8 @@ My name is Zsombor Joel Gyurkovics and I'm a software engineer. I'm from Hungary
 ![](https://img.shields.io/badge/Messaging-Apache_Kafka-informational?style=flat&logo=apache-kafka&logoColor=white&color=2bbc8a)\
 ![](https://img.shields.io/badge/Containerization-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Containerization-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)\
-![](https://img.shields.io/badge/CICD-Azure-DevOps-informational?style=flat&logo=azure-devops&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CICD-GitLab-CI/CD-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CICD-Azure_DevOps-informational?style=flat&logo=azure-devops&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CICD-GitLab_CICD-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)\
 ![](https://img.shields.io/badge/Cloud-Amazon_Web_Services-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Microsoft_Azure-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
 
