@@ -1,6 +1,6 @@
 # Hello there! <img src="https://raw.githubusercontent.com/zsomborjoel/zsomborjoel/master/wave.gif" width="30">
 
-My name is Zsombor Joel Gyurkovics and I'm a software engineer. I'm from Hungary, living in Budapest. You can find me on [![LinkedIn][3.2]][3].
+My name is Zsombor Joel Gyurkovics and I'm a Software Developer. I'm from Hungary, living in Budapest. You can find me on [![LinkedIn][3.2]][3].
 
 
 ## 🔧 Technologies & Tools
