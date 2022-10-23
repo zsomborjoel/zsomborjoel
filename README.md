@@ -10,9 +10,11 @@ My name is Zsombor Joel Gyurkovics and I'm a Software Developer. I'm from Hungar
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)\
 ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)\
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Gin_Gonic-informational?style=flat&logo=gin&logoColor=white&color=2bbc8a)\
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-Elasticsearch-informational?style=flat&logo=elasticsearch&logoColor=white&color=2bbc8a)\
 ![](https://img.shields.io/badge/Messaging-Apache_Kafka-informational?style=flat&logo=apache-kafka&logoColor=white&color=2bbc8a)
