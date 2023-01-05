@@ -1,6 +1,6 @@
 # Hello there! <img src="https://raw.githubusercontent.com/zsomborjoel/zsomborjoel/master/wave.gif" width="30">
 
-My name is Zsombor Joel Gyurkovics and I'm a Software Developer. I'm from Hungary, living in Budapest. You can find me on [![LinkedIn][3.2]][3].
+My name is Zsombor Joel Gyurkovics and I'm a Software Developer. I'm from Hungary, living in Budapest. You can find me on [![LinkedIn][1.1]][1].
 
 
 ## 🔧 Technologies & Tools
@@ -27,35 +27,18 @@ My name is Zsombor Joel Gyurkovics and I'm a Software Developer. I'm from Hungar
 ![](https://img.shields.io/badge/Cloud-Microsoft_Azure-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
-<!-- stats -->
-<a href="https://github.com/zsomborjoel/zsomborjoel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsomborjoel&hide=html,css,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+<p align="center">
+  <a href="https://github.com/zsomborjoel/zsomborjoel">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsomborjoel&hide=html,css,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub skills chart"/>
+  </a>
+</p>
 
+## 💻 CodersRank Stats
+<p align="center">
+  <a href="https://profile.codersrank.io/user/zsomborjoel" target="_blank">
+    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=zsomborjoel&skills=TypeScript,Javascript,React,Go,Java,SQL,Python&width=1000" alt="CodersRank skills chart"/>
+  </a>
+</p>
 
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/zsomborjoel/zsomborjoel/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-<!-- links to your social media accounts -->
-
-[2]: https://github.com/zsomborjoel
-[3]: https://www.linkedin.com/in/zsombor-joel-gyurkovics/
-
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+[1.1]: https://raw.githubusercontent.com/zsomborjoel/zsomborjoel/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1]: https://www.linkedin.com/in/zsombor-joel-gyurkovics/
