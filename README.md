@@ -33,7 +33,8 @@ My name is Zsombor Joel Gyurkovics and I'm a Software Developer. I'm from Hungar
   </a>
 </p>
 
-## 💻 CodersRank Stats
+#
+
 <p align="center">
   <a href="https://profile.codersrank.io/user/zsomborjoel" target="_blank">
     <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=zsomborjoel&skills=TypeScript,Javascript,React,Go,Java,SQL,Python&width=1000" alt="CodersRank skills chart"/>
