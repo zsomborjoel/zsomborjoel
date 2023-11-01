@@ -50,6 +50,8 @@ My name is Zsombor Joel Gyurkovics and I'm a Software Developer. I'm from Hungar
 
 What does this mean? You can write full fledged web apps with your favorite backend language without writing a single line of JavaScript.
 
+Because: "you say: software complexity very, very bad" by <a href="https://grugbrain.dev/" target="_blank">grugbrain.dev</a>
+
 <!-- https://htmx.org/ -->
 <p align="center">
   <a href="https://htmx.org/essays/" target="_blank">
