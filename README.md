@@ -42,5 +42,19 @@ My name is Zsombor Joel Gyurkovics and I'm a Software Developer. I'm from Hungar
   </a>
 </p>
 
-[1.1]: https://raw.githubusercontent.com/zsomborjoel/zsomborjoel/master/linkedin-3-16.png (LinkedIn icon without padding)
+#
+
+## :trollface: My favorite HTMX meme
+
+<a href="https://htmx.org/" target="_blank">HTMX</a> gives you access to AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML, using attributes, so you can build modern user interfaces with the simplicity and power of hypertext
+
+<!-- https://htmx.org/ -->
+<p align="center">
+  <a href="https://htmx.org/essays/" target="_blank">
+    <img src="https://raw.githubusercontent.com/zsomborjoel/zsomborjoel/master/my_favorite_htmx_meme.png">
+  </a>
+</p>
+
+[1.1]: https://raw.githubusercontent.com/zsomborjoel/zsomborjoel/master/linkedin.png (LinkedIn icon without padding)
 [1]: https://www.linkedin.com/in/zsombor-joel-gyurkovics/
+
