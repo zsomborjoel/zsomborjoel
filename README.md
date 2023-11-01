@@ -46,7 +46,9 @@ My name is Zsombor Joel Gyurkovics and I'm a Software Developer. I'm from Hungar
 
 ## :trollface: My favorite HTMX meme
 
-<a href="https://htmx.org/" target="_blank">HTMX</a> gives you access to AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML, using attributes, so you can build modern user interfaces with the simplicity and power of hypertext
+<a href="https://htmx.org/" target="_blank">HTMX</a> gives you access to AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML, using attributes, so you can build modern user interfaces with the simplicity and power of hypertext.
+
+What does this mean? You can write full fledged web apps with your favorite backend language without writing a single line of JavaScript.
 
 <!-- https://htmx.org/ -->
 <p align="center">
