@@ -55,7 +55,7 @@ Because: "you say: software complexity very, very bad" by <a href="https://grugb
 <!-- https://htmx.org/ -->
 <p align="center">
   <a href="https://htmx.org/essays/" target="_blank">
-    <img src="https://raw.githubusercontent.com/zsomborjoel/zsomborjoel/master/my_favorite_htmx_meme.png" width="800">
+    <img src="https://raw.githubusercontent.com/zsomborjoel/zsomborjoel/master/my_favorite_htmx_meme.png" width="600">
   </a>
 </p>
 
