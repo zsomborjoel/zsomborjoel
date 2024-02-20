@@ -48,7 +48,7 @@ My name is Zsombor Joel Gyurkovics and I'm a Software Developer. I'm from Hungar
 
 <a href="https://htmx.org/" target="_blank">HTMX</a> gives you access to AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML, using attributes, so you can build modern user interfaces with the simplicity and power of hypertext.
 
-What does this mean? You can write full fledged web apps with your favorite backend language without writing a single line of JavaScript.
+What does this mean? You can write full fledged web apps with your favorite backend language without writing too much JavaScript and duplicating states more than necessary.
 
 Because: "you say: software complexity very, very bad" by <a href="https://grugbrain.dev/" target="_blank">grugbrain.dev</a>
 
