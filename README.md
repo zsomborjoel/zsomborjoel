@@ -1,6 +1,7 @@
 # Hello there! <img src="https://raw.githubusercontent.com/zsomborjoel/zsomborjoel/master/wave.gif" width="30">
 
 My name is Zsombor Joel Gyurkovics and I'm a Software Developer. I'm from Hungary, living in Budapest. You can find me on [![LinkedIn][1.1]][1].
+Nowadays I mainly create private projects like my expense tracking app [exadar.hu][2].
 
 
 ## 🔧 Technologies & Tools
@@ -61,4 +62,4 @@ Because: "you say: software complexity very, very bad" by <a href="https://grugb
 
 [1.1]: https://raw.githubusercontent.com/zsomborjoel/zsomborjoel/master/linkedin.png (LinkedIn icon without padding)
 [1]: https://www.linkedin.com/in/zsombor-joel-gyurkovics/
-
+[2]: https://www.exadar.hu/en
