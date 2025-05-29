@@ -36,15 +36,6 @@ Nowadays I mainly create private projects like my expense tracking app [exadar.h
 
 #
 
-<!-- https://codersrank.io/ -->
-<p align="center">
-  <a href="https://profile.codersrank.io/user/zsomborjoel" target="_blank">
-    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=zsomborjoel&skills=TypeScript,Javascript,React,Go,Java,SQL,Python&width=1000" alt="CodersRank skills chart"/>
-  </a>
-</p>
-
-#
-
 ## :trollface: My favorite HTMX meme
 
 <a href="https://htmx.org/" target="_blank">HTMX</a> gives you access to AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML, using attributes, so you can build modern user interfaces with the simplicity and power of hypertext.
