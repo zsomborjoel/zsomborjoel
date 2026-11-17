@@ -27,13 +27,6 @@ Nowadays I mainly create private projects like my expense tracking app [exadar.h
 ![](https://img.shields.io/badge/Cloud-Amazon_Web_Services-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Microsoft_Azure-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
 
-## &#x1f4c8; GitHub Stats
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=zsomborjoel&hide=html,css,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsomborjoel&hide=html,css,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub skills chart"/>
-  </a>
-</p>
-
 #
 
 ## :trollface: My favorite HTMX meme
